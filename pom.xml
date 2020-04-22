@@ -20,7 +20,7 @@
 		<sonar.projectKey>spiprojeto</sonar.projectKey>
 		<sonar.organization>lukas-r4</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>5c8fe123d94252f468d93088115093ea25389bf9</sonar.login>
+		<sonar.login>843574eee889c659327a6c9dcfb8a76e0fb688f0</sonar.login>
 	</properties>
 
 	<dependencies>
